@@ -16,5 +16,6 @@ namespace DataMan.Ver1
         {
             InitializeComponent();
         }
+
     }
 }
